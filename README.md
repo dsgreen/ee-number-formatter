@@ -23,3 +23,11 @@ Plugin with parameters:
 {exp:number_formatter:format decimals='2' dec_point='.' thousands_sep=','}
 {value}
 {/exp:number_formatter:format}
+
+Release Notes
+=============
+- 2.0 - February 22, 2017
+    - Updated for EE3
+    - Preliminary update, but tested and works with EE3
+- 1.0 - April 28, 2012
+    - Initial release
